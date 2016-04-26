@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0-*",
+  "description": "Service1 Console Application",
+  "authors": [ "gnsch" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+
+  "compilationOptions": {
+    "emitEntryPoint": true
+  },
+
+  "dependencies": {
+    "RawRabbit": "1.9.1",
+    "RawRabbit.vNext": "1.9.1-rc1-update2"
+  },
+
+  "commands": {
+    "Service1": "Service1"
+  },
+
+  "frameworks": {
+    "dnx451": { }
+  }
+}
